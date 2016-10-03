@@ -1,1 +1,2 @@
 # IS211_Assignment6
+This week, we focused on how to build tests for our software and how to refactor our code to be simpler or more efficient. For this week’s assignment, we are going to build some functions that will help us do some temperature unit conversions. We will start by writing out tests that fail, and then building some code to make that test pass, until we have a working version of the application. After that, we will see how we can potentially refactor this implementation into something simpler.
